@@ -5,7 +5,7 @@ buildscript {
     ext.version_support_lib = '28.0.0'
     ext.version_rxandroid = '2.1.1'
     ext.version_rxjava2 = '2.2.8'
-    ext.version_jwrxbinding = '3.0.0-alpha2'
+    ext.version_jwrxbinding = '2.0.0'
     repositories {
         google()
         jcenter()
